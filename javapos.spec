@@ -12,6 +12,7 @@ License:	distributable
 Source0:	http://www.javapos.com/downloads/JavaPOS-%{version}-Source-20010529.zip
 # Source0-md5:	9015b7558013bc8bcb81cfc528d821aa
 Source1:	ftp://www-126.ibm.com/pub/jposloader/jcl%{jcl_ver}.zip
+# Source1-md5:	9e5065b8a80895dbc0702080af702d84
 Source2:	http://www.javapos.com/downloads/JPOS_Version_1_6.pdf
 # Source2-md5:	c967008bfb0428478cf925b01f7abec0
 URL:		http://www.javapos.com/
