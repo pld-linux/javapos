@@ -8,8 +8,6 @@ Name:		javapos
 Version:	1.6
 Release:	1
 Group:		Development/Languages/Java
-Group(de):	Entwicklung/Sprachen/Java
-Group(pl):	Programowanie/Jêzyki/Java
 License:	distributable
 Url:		http://www.javapos.com
 Source0:	http://www.javapos.com/downloads/JavaPOS-%{version}-Source-20010529.zip
