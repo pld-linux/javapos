@@ -54,7 +54,6 @@ install %{SOURCE2} .
 mv jcl%{jcl_ver}/docs jcl
 mv jcl%{jcl_ver}/readme.html jcl
 mv jcl%{jcl_ver}/changes.txt jcl
-gzip -9nf jcl/readme.html jcl/changes.txt
 rm jcl/README
 
 %clean
