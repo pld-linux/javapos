@@ -9,7 +9,7 @@ Version:	1.6
 Release:	1
 Group:		Development/Languages/Java
 License:	distributable
-Url:		http://www.javapos.com
+Url:		http://www.javapos.com/
 Source0:	http://www.javapos.com/downloads/JavaPOS-%{version}-Source-20010529.zip
 Source1:	ftp://www-126.ibm.com/pub/jposloader/jcl%{jcl_ver}.zip
 Source2:	http://www.javapos.com/downloads/JPOS_Version_1_6.pdf
