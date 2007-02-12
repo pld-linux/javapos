@@ -3,7 +3,7 @@
 %define jcl_ver 2.0.1
 
 Summary:	Java POS
-Summary(pl):	Java POS
+Summary(pl.UTF-8):   Java POS
 Name:		javapos
 Version:	1.6
 Release:	1
@@ -28,7 +28,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 JavaPOS.
 
-%description -l pl
+%description -l pl.UTF-8
 JavaPOS.
 
 %prep
