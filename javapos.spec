@@ -3,7 +3,7 @@
 %define jcl_ver 2.0.1
 
 Summary:	Java POS
-Summary(pl.UTF-8):   Java POS
+Summary(pl.UTF-8):	Java POS
 Name:		javapos
 Version:	1.6
 Release:	1
