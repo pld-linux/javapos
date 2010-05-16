@@ -17,6 +17,7 @@ Source2:	http://www.javapos.com/downloads/JPOS_Version_1_6.pdf
 # Source2-md5:	c967008bfb0428478cf925b01f7abec0
 URL:		http://www.javapos.com/
 BuildRequires:	jdk
+BuildRequires:	unzip
 BuildRequires:	xerces-j
 Requires:	jre
 Requires:	xerces-j
